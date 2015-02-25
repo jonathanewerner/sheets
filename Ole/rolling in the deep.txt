@@ -1,3 +1,0 @@
-C-
-V1 double
-C2 2th: ab
